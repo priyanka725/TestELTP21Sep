@@ -1,7 +1,9 @@
 Welcome to git demo!!!
 
-Change1 - to test push to remote repo
+Change1: -> to test push to remote repo
 
-Change2 - to test pull by teammate
+Change2: -> to test pull by teammate
 
-Change3 -to test rebase conflict on remote repo by teammate on WI10
+Change3: ->to test rebase conflict on remote repo by teammate on WI10
+
+Change4: -> WI9 on local master to test rebase
