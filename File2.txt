@@ -1,5 +1,7 @@
-Welcome to git demo
+Welcome to git demo!!!
 
-Change - to test push to remote repo
+Change1 - to test push to remote repo
 
-Change - to test pull by teammate
+Change2 - to test pull by teammate
+
+Change3 -to test rebase conflict on remote repo by teammate on WI10
